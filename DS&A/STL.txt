@@ -1,0 +1,27 @@
+
+
+--> Stack implementation
+----->using static array
+-------> push/pop/isEmpty/isFull
+---> using dynamic array
+--> using linked List
+---> using dynamic array and OOP
+---> using dynamic array and OOP and template class
+
+
+
+
+
+
+
+
+
+
+
+
+--> stack in STL
+
+
+Stack
+Queue
+Prioty Queue ----------- Min Heap/Max Heap
